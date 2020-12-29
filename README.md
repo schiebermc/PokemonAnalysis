@@ -1,2 +1,2 @@
 # PokemonAnalysis
-Some analysis of Pokemon types and stats.
+Some fun asking important questions and analyzing Pokemon data
