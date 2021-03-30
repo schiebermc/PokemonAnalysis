@@ -68,7 +68,7 @@ PyAutoGUI==0.9.50
 pycparser==2.20
 PyGetWindow==0.0.8
 pyglet==1.5.0
-Pygments==2.6.1
+Pygments==2.7.4
 PyMsgBox==1.0.8
 pyobjc==6.2.2
 pyobjc-core==6.2.2
